@@ -41,3 +41,5 @@ Data Modeling: Snowflake schema with fact/dimension relationships.
 Outcome
 
 This project showcases how a well-architected BI solution can empower organizations to gain a 360° view of business performance, optimize operations, and make data-driven strategic decisions with speed and confidence.
+
+For Power BI file : https://drive.google.com/file/d/1jShvQSFVHQHpp08ZKWLqqSqKYoDe3jOf/view?usp=drive_link
