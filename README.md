@@ -42,4 +42,4 @@ Outcome
 
 This project showcases how a well-architected BI solution can empower organizations to gain a 360° view of business performance, optimize operations, and make data-driven strategic decisions with speed and confidence.
 
-For Power BI file : https://drive.google.com/file/d/1jShvQSFVHQHpp08ZKWLqqSqKYoDe3jOf/view?usp=drive_link
+For Power BI Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYTNjMWU1NzItNTAxNC00N2VkLWI5MjYtNTczZWIyZDUyMjZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
